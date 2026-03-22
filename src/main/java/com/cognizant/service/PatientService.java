@@ -1,9 +1,7 @@
 package com.cognizant.service;
 
-import com.cognizant.context.UserContext;
-import com.cognizant.dao.PatientDAO;
-import com.cognizant.model.Patient;
-import com.cognizant.model.Role;
+import com.cognizantTest.dao.PatientDAO;
+import com.cognizantTest.model.Patient;
 
 import java.util.Scanner;
 

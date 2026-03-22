@@ -1,7 +1,7 @@
-package com.cognizant.dao;
+package com.cognizantTest.dao;
 
-import com.cognizant.model.TestOrder;
-import com.cognizant.repositary.DBConnection;
+import com.cognizantTest.model.TestOrder;
+import com.cognizantTest.repositary.DBConnection;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

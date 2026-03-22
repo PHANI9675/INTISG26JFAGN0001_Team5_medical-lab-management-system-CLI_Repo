@@ -1,6 +1,6 @@
-package com.cognizant.repositary;
+package com.cognizantTest.repositary;
 
-import com.cognizant.model.Patient;
+import com.cognizantTest.model.Patient;
 
 import java.util.*;
 

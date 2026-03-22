@@ -1,7 +1,7 @@
 package com.cognizant.service;
 
-import com.cognizant.dao.TestOrderDAO;
-import com.cognizant.model.TestOrder;
+import com.cognizantTest.dao.TestOrderDAO;
+import com.cognizantTest.model.TestOrder;
 
 public class TestOrderService {
     private TestOrderDAO dao = new TestOrderDAO();

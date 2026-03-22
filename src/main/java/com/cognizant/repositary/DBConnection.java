@@ -1,4 +1,4 @@
-package com.cognizant.repositary;
+package com.cognizantTest.repositary;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

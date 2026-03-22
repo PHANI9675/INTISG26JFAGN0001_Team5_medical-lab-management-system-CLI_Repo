@@ -1,16 +1,17 @@
 package com.cognizant;
 
-import com.cognizant.context.UserContext;
-import com.cognizant.model.Role;
-//import com.cognizant.model.TestOrder;
-import com.cognizant.model.User;
 import com.cognizant.service.*;
+import com.cognizantTest.context.UserContext;
+import com.cognizantTest.model.Role;
+//import com.cognizant.model.TestOrder;
+import com.cognizantTest.model.User;
 
 import java.util.Scanner;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
+    //long start = System.nanoTime();
     private static Scanner sc = new Scanner(System.in);
     private static PatientService patientService = new PatientService();
     private static TestOrderService orderService = new TestOrderService();
@@ -237,3 +238,4 @@ public class Main {
     }
 
 }
+

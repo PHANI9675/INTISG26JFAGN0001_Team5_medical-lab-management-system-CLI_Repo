@@ -1,8 +1,8 @@
 package com.cognizant.service;
 
-import com.cognizant.dao.UserDAO;
-import com.cognizant.model.Role;
-import com.cognizant.model.User;
+import com.cognizantTest.dao.UserDAO;
+import com.cognizantTest.model.Role;
+import com.cognizantTest.model.User;
 
 public class AuthService {
     private UserDAO dao = new UserDAO();

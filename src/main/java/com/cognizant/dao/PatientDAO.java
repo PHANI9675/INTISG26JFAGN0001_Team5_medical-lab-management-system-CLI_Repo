@@ -1,8 +1,7 @@
-package com.cognizant.dao;
+package com.cognizantTest.dao;
 
-import com.cognizant.model.Patient;
-import com.cognizant.repositary.DBConnection;
-import com.cognizant.repositary.DataStore;
+import com.cognizantTest.model.Patient;
+import com.cognizantTest.repositary.DBConnection;
 
 import java.sql.*;
 //import java.sql.PreparedStatement;

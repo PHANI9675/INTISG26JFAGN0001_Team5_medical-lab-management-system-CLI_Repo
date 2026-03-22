@@ -1,4 +1,4 @@
-package com.cognizant.model;
+package com.cognizantTest.model;
 
 public class Sample {
     private int sampleId;

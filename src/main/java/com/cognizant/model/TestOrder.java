@@ -1,11 +1,11 @@
-package com.cognizant.model;
+package com.cognizantTest.model;
 
 public class TestOrder {
     private int orderId;
     private int patientId;
     private String testName;
 
-    public TestOrder( int orderId, int patientId, String testName) {
+    public TestOrder(int orderId, int patientId, String testName) {
         this.testName = testName;
         this.patientId = patientId;
         this.orderId = orderId;

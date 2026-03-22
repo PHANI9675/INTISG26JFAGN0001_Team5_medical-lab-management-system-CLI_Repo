@@ -1,6 +1,6 @@
-package com.cognizant.context;
+package com.cognizantTest.context;
 
-import com.cognizant.model.User;
+import com.cognizantTest.model.User;
 
 public class UserContext {
 

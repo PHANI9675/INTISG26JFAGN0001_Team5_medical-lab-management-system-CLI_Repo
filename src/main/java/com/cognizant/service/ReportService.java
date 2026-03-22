@@ -1,8 +1,8 @@
 package com.cognizant.service;
 
-import com.cognizant.dao.ReportDAO;
-import com.cognizant.dao.SampleDAO;
-import com.cognizant.model.Report;
+import com.cognizantTest.dao.ReportDAO;
+import com.cognizantTest.dao.SampleDAO;
+import com.cognizantTest.model.Report;
 
 public class ReportService {
 

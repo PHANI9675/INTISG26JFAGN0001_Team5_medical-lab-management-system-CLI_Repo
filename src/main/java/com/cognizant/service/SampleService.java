@@ -1,9 +1,9 @@
 package com.cognizant.service;
 
-import com.cognizant.context.UserContext;
-import com.cognizant.dao.SampleDAO;
-import com.cognizant.model.Role;
-import com.cognizant.model.Sample;
+import com.cognizantTest.context.UserContext;
+import com.cognizantTest.dao.SampleDAO;
+import com.cognizantTest.model.Role;
+import com.cognizantTest.model.Sample;
 
 public class SampleService {
     private SampleDAO dao = new SampleDAO();
